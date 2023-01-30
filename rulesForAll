@@ -1,3 +1,5 @@
+# GENERAL RULES
+
 GENERAL_00
 Utiliser l'anglais pour le nommage et les commentaires.
 
@@ -19,7 +21,9 @@ Noms prononçables
 Les noms de variables composés d'un seul caractère doivent être évités sauf pour des variables provisoires (index d'une boucle).
 
 GENERAL_05
-Documenter l'intention et non le déroulement
+Documenter l'intention et non le déroulement.
+
+# JAVA RULES
 
 JAVA_00
 Organisez une classe du plus général (service ou méthode publiques) au plus précis par convention :
